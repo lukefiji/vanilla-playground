@@ -1,0 +1,3 @@
+# Vanilla Playground
+
+Vite + TypeScript
